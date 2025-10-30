@@ -1,0 +1,25 @@
+from enum import Enum
+
+
+class LanguageCode(Enum):
+    """Supported language codes"""
+    ENGLISH_US = "en-US"
+    ENGLISH_UK = "en-GB"
+    SPANISH = "es-ES"
+    FRENCH = "fr-FR"
+    GERMAN = "de-DE"
+    ITALIAN = "it-IT"
+    PORTUGUESE = "pt-PT"
+    RUSSIAN = "ru-RU"
+    JAPANESE = "ja-JP"
+    CHINESE_MANDARIN = "zh-CN"
+    KOREAN = "ko-KR"
+    ARABIC = "ar-SA"
+    HINDI = "hi-IN"
+    DUTCH = "nl-NL"
+    POLISH = "pl-PL"
+    TURKISH = "tr-TR"
+    SWEDISH = "sv-SE"
+    DANISH = "da-DK"
+    NORWEGIAN = "no-NO"
+    FINNISH = "fi-FI"
