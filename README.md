@@ -81,6 +81,12 @@ python examples/multilingual_demo.py
 
 # File recognition
 python examples/file_recognition.py
+
+#Gui
+python examples/gui_app.py
+
+<img width="1127" height="971" alt="image" src="https://github.com/user-attachments/assets/5343a573-66bd-48de-a3e7-d6a24ee8c36d" />
+
 ```
 
 ## API Reference
