@@ -84,8 +84,8 @@ python examples/file_recognition.py
 
 #Gui
 python examples/gui_app.py
+<img src="examples/screenshots/voice_recorder.png" alt="GUI App Screenshot" width="600"/>
 
-![GUI App Screenshot](https://github.com/user-attachments/assets/5343a573-66bd-48de-a3e7-d6a24ee8c36d)
 
 ```
 
