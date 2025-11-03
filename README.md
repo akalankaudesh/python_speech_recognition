@@ -135,11 +135,3 @@ pip install pyaudio
 ### Microphone Permission Issues
 
 Make sure to grant microphone permissions to your terminal/IDE in system settings.
-
-## License
-
-MIT License - Feel free to use in your projects!
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
